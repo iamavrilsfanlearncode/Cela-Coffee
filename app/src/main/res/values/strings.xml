@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cela coffee </string>
+    <string name="chk1">cola</string>
+    <string name="chk2">chololate latte</string>
+    <string name="chk3">milk tea</string>
+    <string name="chk4">bubble tea</string>
+    <string name="chk5">black tea</string>
+    <string name="chk6">latte</string>
+    <string name="ra1">yes</string>
+    <string name="ra2">No Ice</string>
+    <string name="submit">確定送出</string>
+    <string name="prvious">回到上一頁</string>
+</resources>
